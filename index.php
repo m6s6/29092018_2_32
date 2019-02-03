@@ -12,7 +12,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Мой заголовок 1</h1>
+    <h1>Твой заголовок 1</h1>
 
     <script src="/js/main.js"></script>
 </body>
