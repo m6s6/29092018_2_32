@@ -13,7 +13,7 @@
 </head>
 <body>
     <h1>Твой заголовок 1</h1>
-
+    <p>Первая часть нового параграфа</p>
     <script src="/js/main.js"></script>
 </body>
 </html>
